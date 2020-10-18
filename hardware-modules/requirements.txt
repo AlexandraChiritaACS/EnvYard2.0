@@ -1,0 +1,2 @@
+The archives are meant to be uploaded on devices like the ones from the page https://azure.github.io/Vision-AI-DevKit-Pages/.
+They can be tested using Azute IoT Simulator.
